@@ -29,7 +29,7 @@ body {
 }
 
 .codigo-qr h3 {
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 20px;
     color: hsl(218, 44%, 22%);
 }
@@ -37,6 +37,7 @@ body {
 .codigo-qr p {
     margin-top: 20px;
     color: hsl(220, 15%, 55%);
+    font-size: 13px;
 }
 
 .img-qr {
